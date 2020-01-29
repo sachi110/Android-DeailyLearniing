@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "711061858241",
+    "firebase_url": "https://dailylearing-4f00f.firebaseio.com",
+    "project_id": "dailylearing-4f00f",
+    "storage_bucket": "dailylearing-4f00f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711061858241:android:a22e01416a009ac398b140",
+        "android_client_info": {
+          "package_name": "com.example.DailyLearining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711061858241-9uif1qe2b9hrg20ec9uqiej6989ummhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.DailyLearining",
+            "certificate_hash": "788f7d8b1437ce071af5bc4ef17d27a9272aea79"
+          }
+        },
+        {
+          "client_id": "711061858241-0t7hf8737kq0u3n9mcplc6o8jiokv632.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6Umf2HIug57Xyoi8SoqoW_q_p51XPKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711061858241-0t7hf8737kq0u3n9mcplc6o8jiokv632.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
